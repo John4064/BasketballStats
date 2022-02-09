@@ -3,3 +3,7 @@ A analysis of the 2018 college basketball season. With some data visualization m
 
 GUI with Tkinter<br />
 ![Graph](1.png)<br />
+![Graph](2.png)<br />
+![Graph](3.png)<br />
+![Graph](4.png)<br />
+![Graph](5.png)<br />
